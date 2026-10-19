@@ -3,6 +3,7 @@
 An Excel-based reporting project that automates retail data cleaning, analysis, dashboard creation, and PDF report generation using Power Query and VBA.
 
 ## Business Problem
+![Dashboard Screenshot](Dashboard_Screenshot.png)
 Combining monthly sales files and updating reports manually is time-consuming and prone to errors.
 
 ## Solution
