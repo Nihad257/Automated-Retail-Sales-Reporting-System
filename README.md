@@ -10,7 +10,7 @@ Combining monthly sales files and updating reports manually is time-consuming an
 - **Power Query:** Combines and transforms monthly sales files.
 - **Excel:** Uses PivotTables, charts, and slicers to analyze sales trends, top products, and country-wise revenue.
 - **VBA:** Automates data refresh and PDF report export.
-- **Data Quality:** Handles missing customer IDs, returns, and cancellations according to defined cleaning rules.
+- **Data Quality:** Handles missing customer IDs, Handling Inconsistency in revenues and quantities according to defined cleaning rules.
 
 ## Tech Stack
 Excel · Power Query · VBA · PivotTables · Charts
